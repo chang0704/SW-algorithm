@@ -13,6 +13,7 @@ Installing these two packages, `pip3 install numpy`, `pip3 install pandas`
 
 ## Implemetation
 By running the script, you can use the following line:
-python hw1.py -i <input file> -s <score file> -out <output file>
+
+`python hw1.py -i <input file> -s <score file> -out <output file>`
 
 
